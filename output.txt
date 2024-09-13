@@ -1,0 +1,7 @@
+ATTGCCA--TT
+ATGGCCA--TT
+A-TCCAATTTT
+ATCTTC---TT
+ACTG--A--CC
+
+best score: 2
